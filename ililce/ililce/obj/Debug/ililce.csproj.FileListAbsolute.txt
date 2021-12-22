@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\bin\Debug\ililce.exe.config
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\bin\Debug\ililce.exe
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\bin\Debug\ililce.pdb
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\obj\Debug\ililce.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\obj\Debug\ililce.ililceFrm.resources
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\obj\Debug\ililce.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\obj\Debug\ililce.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\obj\Debug\ililce.exe
+d:\belgeler\visual studio 2015\Projects\ililce\ililce\obj\Debug\ililce.pdb
